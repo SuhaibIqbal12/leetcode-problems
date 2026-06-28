@@ -32,9 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/0069-sqrtx) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
