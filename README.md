@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Binary Search
 |  |
