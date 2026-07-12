@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/0001-two-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
 |  |
