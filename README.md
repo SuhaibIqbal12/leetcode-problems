@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/0069-sqrtx) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/SuhaibIqbal12/leetcode-problems/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
